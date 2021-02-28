@@ -1,1 +1,2 @@
-# https://genkoko.github.io/training-application/application.html
+# https://genkoko.github.io/training-application/
+
